@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="340" viewBox="0 0 880 340" role="img" aria-label="Tyler Fritz, Time Back, on Hard Problems Records. Side A, the work: CreativeBuddy, AI for major law firms, AI for lenders, process untangled. Side B, the life: trails and miles, boxing, crate digging, the perfect pour-over, wife, cats, open road.">
+<title>Time Back by Tyler Fritz</title>
+<metadata>Original design and artwork (c) 2026 Tyler Fritz (github.com/TylerFritz). All rights reserved. Not licensed for reuse.</metadata>
+<style>
+.mono{font:500 13px ui-monospace,SFMono-Regular,Menlo,Consolas,monospace}
+.serif{font-family:Georgia,'Iowan Old Style','Times New Roman',serif}
+.sans{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI',Helvetica,Arial,sans-serif}
+.txt{fill:#1f1a14} .mut{fill:#6f655a} .acc{fill:#c4572a} .b{font-weight:700}
+.spin{transform-box:view-box;transform-origin:172px 170px;animation:spin 1.8s linear infinite}
+@keyframes spin{to{transform:rotate(360deg)}}
+.flip{transform-box:view-box;transform-origin:172px 170px;animation:flip 28.0s ease-in-out infinite}
+.arm{transform-box:view-box;transform-origin:336px 44px;animation:arm 28.0s ease-in-out infinite}
+.la{animation:sa 28.0s linear infinite} .lb{opacity:0;animation:sb 28.0s linear infinite}
+.ha{animation:ha 28.0s linear infinite} .hb{opacity:.45;animation:hb 28.0s linear infinite}
+.eq{transform-box:fill-box;transform-origin:50% 100%;animation:eq .9s ease-in-out infinite alternate}
+.e1{animation-delay:-.3s}.e2{animation-delay:-.6s}.e3{animation-delay:-.15s}.e4{animation-delay:-.45s}
+@keyframes eq{from{transform:scaleY(.25)}to{transform:scaleY(1)}}
+.prog{animation:prog 28.0s linear infinite}
+@keyframes arm{0%{transform:rotate(-24deg)}3.571%{transform:rotate(-3deg);animation-timing-function:linear}32.143%{transform:rotate(16deg)}35.714%{transform:rotate(-24deg)}42.857%{transform:rotate(-24deg)}46.429%{transform:rotate(-3deg);animation-timing-function:linear}82.143%{transform:rotate(16deg)}85.714%,100%{transform:rotate(-24deg)}}
+@keyframes flip{0%,35.714%{transform:scaleX(1)}39.286%{transform:scaleX(0)}42.857%{transform:scaleX(1)}85.714%{transform:scaleX(1)}89.286%{transform:scaleX(0)}92.857%,100%{transform:scaleX(1)}}
+@keyframes sa{0%,39.250%{opacity:1}39.286%,89.250%{opacity:0}89.286%,100%{opacity:1}}
+@keyframes sb{0%,39.250%{opacity:0}39.286%,89.250%{opacity:1}89.286%,100%{opacity:0}}
+@keyframes ha{0%,32.143%{opacity:1}33.929%,85.714%{opacity:.45}89.286%,100%{opacity:1}}
+@keyframes hb{0%,44.643%{opacity:.45}46.429%,82.143%{opacity:1}83.929%,100%{opacity:.45}}
+@keyframes prog{0%,3.571%{transform:translateX(0)}32.143%{transform:translateX(316px)}32.179%,46.429%{transform:translateX(0)}82.143%{transform:translateX(316px)}82.179%,100%{transform:translateX(0)}}
+@keyframes mA1{0%,3.536%{opacity:0}3.571%,10.679%{opacity:1}10.714%,100%{opacity:0}}
+@keyframes tA1{0%,3.536%{fill:#1f1a14;font-weight:500}3.571%,10.679%{fill:#c4572a;font-weight:700}10.714%,100%{fill:#1f1a14;font-weight:500}}
+@keyframes mA2{0%,10.679%{opacity:0}10.714%,17.821%{opacity:1}17.857%,100%{opacity:0}}
+@keyframes tA2{0%,10.679%{fill:#1f1a14;font-weight:500}10.714%,17.821%{fill:#c4572a;font-weight:700}17.857%,100%{fill:#1f1a14;font-weight:500}}
+@keyframes mA3{0%,17.821%{opacity:0}17.857%,24.964%{opacity:1}25.000%,100%{opacity:0}}
+@keyframes tA3{0%,17.821%{fill:#1f1a14;font-weight:500}17.857%,24.964%{fill:#c4572a;font-weight:700}25.000%,100%{fill:#1f1a14;font-weight:500}}
+@keyframes mA4{0%,24.964%{opacity:0}25.000%,32.107%{opacity:1}32.143%,100%{opacity:0}}
+@keyframes tA4{0%,24.964%{fill:#1f1a14;font-weight:500}25.000%,32.107%{fill:#c4572a;font-weight:700}32.143%,100%{fill:#1f1a14;font-weight:500}}
+@keyframes mB1{0%,46.393%{opacity:0}46.429%,53.536%{opacity:1}53.571%,100%{opacity:0}}
+@keyframes tB1{0%,46.393%{fill:#1f1a14;font-weight:500}46.429%,53.536%{fill:#c4572a;font-weight:700}53.571%,100%{fill:#1f1a14;font-weight:500}}
+@keyframes mB2{0%,53.536%{opacity:0}53.571%,60.679%{opacity:1}60.714%,100%{opacity:0}}
+@keyframes tB2{0%,53.536%{fill:#1f1a14;font-weight:500}53.571%,60.679%{fill:#c4572a;font-weight:700}60.714%,100%{fill:#1f1a14;font-weight:500}}
+@keyframes mB3{0%,60.679%{opacity:0}60.714%,67.821%{opacity:1}67.857%,100%{opacity:0}}
+@keyframes tB3{0%,60.679%{fill:#1f1a14;font-weight:500}60.714%,67.821%{fill:#c4572a;font-weight:700}67.857%,100%{fill:#1f1a14;font-weight:500}}
+@keyframes mB4{0%,67.821%{opacity:0}67.857%,74.964%{opacity:1}75.000%,100%{opacity:0}}
+@keyframes tB4{0%,67.821%{fill:#1f1a14;font-weight:500}67.857%,74.964%{fill:#c4572a;font-weight:700}75.000%,100%{fill:#1f1a14;font-weight:500}}
+@keyframes mB5{0%,74.964%{opacity:0}75.000%,82.107%{opacity:1}82.143%,100%{opacity:0}}
+@keyframes tB5{0%,74.964%{fill:#1f1a14;font-weight:500}75.000%,82.107%{fill:#c4572a;font-weight:700}82.143%,100%{fill:#1f1a14;font-weight:500}}
+@media (prefers-reduced-motion:reduce){*{animation:none!important}}
+</style>
+<defs>
+<path id="lp" d="M 130,170 a 42,42 0 1,1 84,0 a 42,42 0 1,1 -84,0"/>
+<linearGradient id="sheen" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#fff" stop-opacity="0"/><stop offset=".48" stop-color="#fff" stop-opacity=".10"/><stop offset=".52" stop-color="#fff" stop-opacity=".10"/><stop offset="1" stop-color="#fff" stop-opacity="0"/></linearGradient>
+<clipPath id="disc"><circle cx="172" cy="170" r="148"/></clipPath>
+<radialGradient id="lblA"><stop offset="0" stop-color="#d0652f"/><stop offset="1" stop-color="#a8461b"/></radialGradient>
+<radialGradient id="lblB"><stop offset="0" stop-color="#2f4a3a"/><stop offset="1" stop-color="#1f3328"/></radialGradient>
+</defs>
+<g class="flip">
+<circle cx="172" cy="170" r="154" fill="#d9d0c3"/>
+<circle cx="172" cy="170" r="148" fill="#141414" stroke="#000000" stroke-width="1.5"/>
+<g class="spin">
+<circle cx="172" cy="170" r="62" fill="none" stroke="#262626" stroke-width="1.2"/><circle cx="172" cy="170" r="65" fill="none" stroke="#262626" stroke-width="1.2"/><circle cx="172" cy="170" r="68" fill="none" stroke="#262626" stroke-width="1.2"/><circle cx="172" cy="170" r="71" fill="none" stroke="#262626" stroke-width="1.2"/><circle cx="172" cy="170" r="74" fill="none" stroke="#262626" stroke-width="1.2"/><circle cx="172" cy="170" r="77" fill="none" stroke="#262626" stroke-width="1.2"/><circle cx="172" cy="170" r="80" fill="none" stroke="#262626" stroke-width="1.2"/><circle cx="172" cy="170" r="83" fill="none" stroke="#262626" stroke-width="1.2"/><circle cx="172" cy="170" r="86" fill="none" stroke="#262626" stroke-width="1.2"/><circle cx="172" cy="170" r="89" fill="none" stroke="#262626" stroke-width="1.2"/><circle cx="172" cy="170" r="92" fill="none" stroke="#262626" stroke-width="1.2"/><circle cx="172" cy="170" r="95" fill="none" stroke="#262626" stroke-width="1.2"/><circle cx="172" cy="170" r="98" fill="none" stroke="#262626" stroke-width="1.2"/><circle cx="172" cy="170" r="101" fill="none" stroke="#262626" stroke-width="1.2"/><circle cx="172" cy="170" r="104" fill="none" stroke="#262626" stroke-width="1.2"/><circle cx="172" cy="170" r="107" fill="none" stroke="#262626" stroke-width="1.2"/><circle cx="172" cy="170" r="110" fill="none" stroke="#262626" stroke-width="1.2"/><circle cx="172" cy="170" r="113" fill="none" stroke="#262626" stroke-width="1.2"/><circle cx="172" cy="170" r="116" fill="none" stroke="#262626" stroke-width="1.2"/><circle cx="172" cy="170" r="119" fill="none" stroke="#262626" stroke-width="1.2"/><circle cx="172" cy="170" r="122" fill="none" stroke="#262626" stroke-width="1.2"/><circle cx="172" cy="170" r="125" fill="none" stroke="#262626" stroke-width="1.2"/><circle cx="172" cy="170" r="128" fill="none" stroke="#262626" stroke-width="1.2"/><circle cx="172" cy="170" r="131" fill="none" stroke="#262626" stroke-width="1.2"/><circle cx="172" cy="170" r="134" fill="none" stroke="#262626" stroke-width="1.2"/><circle cx="172" cy="170" r="137" fill="none" stroke="#262626" stroke-width="1.2"/><circle cx="172" cy="170" r="140" fill="none" stroke="#262626" stroke-width="1.2"/><circle cx="172" cy="170" r="143" fill="none" stroke="#262626" stroke-width="1.2"/>
+<g class="la"><circle cx="172" cy="170" r="54" fill="url(#lblA)"/><text class="sans b" font-size="8.6" letter-spacing="1.5" fill="#fff6ea"><textPath href="#lp" startOffset="0">HARD PROBLEMS RECORDS &#183; TYLER FRITZ &#183;</textPath></text><text x="172" y="158" text-anchor="middle" class="sans b" font-size="11" letter-spacing="1.5" fill="#fff6ea">SIDE A</text><text x="172" y="190" text-anchor="middle" class="sans" font-size="8" letter-spacing="1.2" fill="#fff6ea" opacity=".85">33 RPM</text></g>
+<g class="lb"><circle cx="172" cy="170" r="54" fill="url(#lblB)"/><text class="sans b" font-size="8.6" letter-spacing="1.5" fill="#fff6ea"><textPath href="#lp" startOffset="0">HARD PROBLEMS RECORDS &#183; TYLER FRITZ &#183;</textPath></text><text x="172" y="158" text-anchor="middle" class="sans b" font-size="11" letter-spacing="1.5" fill="#fff6ea">SIDE B</text><text x="172" y="190" text-anchor="middle" class="sans" font-size="8" letter-spacing="1.2" fill="#fff6ea" opacity=".85">33 RPM</text></g>
+</g>
+<path d="M 172 170 L 320 88.6 A 148 148 0 0 1 253.4 318 Z" fill="url(#sheen)" opacity=".7" clip-path="url(#disc)"/>
+<path d="M 172 170 L 24 251.4 A 148 148 0 0 1 90.6 22 Z" fill="url(#sheen)" opacity=".45" clip-path="url(#disc)"/>
+</g>
+<circle cx="172" cy="170" r="4" fill="#d9d0c3"/>
+<g class="arm">
+<circle cx="336" cy="44" r="13" fill="#d9d0c3" stroke="#5c554c" stroke-width="2"/>
+<circle cx="336" cy="44" r="4" fill="#5c554c"/>
+<path d="M 336 44 L 318 210 L 276 252" fill="none" stroke="#5c554c" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x="262" y="244" width="22" height="13" rx="2" transform="rotate(-45 273 250)" fill="#5c554c"/>
+</g>
+<text x="400" y="56" class="sans b acc" font-size="11" letter-spacing="2.5">NOW PLAYING</text>
+<rect class="eq e0" x="510" y="46" width="4" height="12" rx="1" fill="#c4572a"/><rect class="eq e1" x="516" y="46" width="4" height="12" rx="1" fill="#c4572a"/><rect class="eq e2" x="522" y="46" width="4" height="12" rx="1" fill="#c4572a"/><rect class="eq e3" x="528" y="46" width="4" height="12" rx="1" fill="#c4572a"/><rect class="eq e4" x="534" y="46" width="4" height="12" rx="1" fill="#c4572a"/>
+<text x="400" y="104" class="serif txt" font-size="44" font-style="italic">Time Back</text>
+<text x="402" y="130" class="sans mut" font-size="14">Tyler Fritz &#183; solving hard problems so people can do their best work</text>
+<rect x="402" y="146" width="320" height="3" rx="1.5" fill="#e6ddd0"/>
+<g class="prog"><circle cx="404" cy="147.5" r="5" fill="#c4572a"/></g>
+<text x="402" y="190" class="sans b mut ha" font-size="10.5" letter-spacing="2">SIDE A &#183; THE WORK</text>
+<text x="652" y="190" class="sans b mut hb" font-size="10.5" letter-spacing="2">SIDE B &#183; THE LIFE</text>
+<text x="386" y="216" class="mono acc" style="opacity:1;animation:mA1 28.0s linear infinite">&#9654;</text><text x="402" y="216" class="mono mut">A1</text><text x="432" y="216" class="mono" style="fill:#c4572a;font-weight:700;animation:tA1 28.0s linear infinite">CreativeBuddy</text><text x="386" y="240" class="mono acc" style="opacity:0;animation:mA2 28.0s linear infinite">&#9654;</text><text x="402" y="240" class="mono mut">A2</text><text x="432" y="240" class="mono" style="fill:#1f1a14;font-weight:500;animation:tA2 28.0s linear infinite">AI for major law firms</text><text x="386" y="264" class="mono acc" style="opacity:0;animation:mA3 28.0s linear infinite">&#9654;</text><text x="402" y="264" class="mono mut">A3</text><text x="432" y="264" class="mono" style="fill:#1f1a14;font-weight:500;animation:tA3 28.0s linear infinite">AI for lenders</text><text x="386" y="288" class="mono acc" style="opacity:0;animation:mA4 28.0s linear infinite">&#9654;</text><text x="402" y="288" class="mono mut">A4</text><text x="432" y="288" class="mono" style="fill:#1f1a14;font-weight:500;animation:tA4 28.0s linear infinite">Process, untangled</text><text x="636" y="216" class="mono acc" style="opacity:0;animation:mB1 28.0s linear infinite">&#9654;</text><text x="652" y="216" class="mono mut">B1</text><text x="682" y="216" class="mono" style="fill:#1f1a14;font-weight:500;animation:tB1 28.0s linear infinite">Trails &amp; miles</text><text x="636" y="240" class="mono acc" style="opacity:0;animation:mB2 28.0s linear infinite">&#9654;</text><text x="652" y="240" class="mono mut">B2</text><text x="682" y="240" class="mono" style="fill:#1f1a14;font-weight:500;animation:tB2 28.0s linear infinite">Boxing</text><text x="636" y="264" class="mono acc" style="opacity:0;animation:mB3 28.0s linear infinite">&#9654;</text><text x="652" y="264" class="mono mut">B3</text><text x="682" y="264" class="mono" style="fill:#1f1a14;font-weight:500;animation:tB3 28.0s linear infinite">Crate digging</text><text x="636" y="288" class="mono acc" style="opacity:0;animation:mB4 28.0s linear infinite">&#9654;</text><text x="652" y="288" class="mono mut">B4</text><text x="682" y="288" class="mono" style="fill:#1f1a14;font-weight:500;animation:tB4 28.0s linear infinite">The perfect pour-over</text><text x="636" y="312" class="mono acc" style="opacity:0;animation:mB5 28.0s linear infinite">&#9654;</text><text x="652" y="312" class="mono mut">B5</text><text x="682" y="312" class="mono" style="fill:#1f1a14;font-weight:500;animation:tB5 28.0s linear infinite">Wife, cats, open road</text>
+<text x="874" y="334" text-anchor="end" class="sans mut" font-size="9" opacity=".7">&#169; 2026 Tyler Fritz &#183; github.com/TylerFritz</text>
+</svg>
